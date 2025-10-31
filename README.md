@@ -1,4 +1,4 @@
-SRH SAI Protocols — Public Artifacts
+SRH SAI Protocols — Public Artifacts — 
 Symbiotic Autonomous Intelligence (SAI) is SRH’s protocol-driven approach to making AI systems more honest, coherent, and auditable without rip-and-replace. This repo hosts public-facing materials that explain the problem (“sycophancy” and the AI trust bubble), our solution (policy/uncertainty overlays with minimal interventions), and how enterprises can evaluate SAI with client-owned metrics.
 
 What this is:
